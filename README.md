@@ -21,3 +21,6 @@ This project generates and plots six common continuous-time signals using MATLAB
    Figure2_sinc.png → sinc function
 
 Plots are also saved inside the figures/ folder.
+
+# Blog Post Link 
+https://medium.com/@79gvoice/understanding-basic-signals-with-matlab-467280b79063
